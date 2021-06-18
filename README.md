@@ -1,2 +1,2 @@
-# useReducer-immer
+# zustand-immer
 Created with CodeSandbox
